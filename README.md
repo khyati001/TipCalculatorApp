@@ -1,6 +1,6 @@
 # TipCalculatorApp
 
-This Android example serves as a comprehensive showcase of the effortless integration of Jetpack Compose, highlighting the platform's capability to facilitate smooth and modern UI development. The app presents a dynamic screen featuring a tip caculator which calculates the tip based on the data provided. By incorporating UI components such as Card, Box, OutlinedTextField, Image, Text, and Button, it achieves an interactive and visually appealing user experience. The demonstration emphasizes the utilization of Material Design principles within Jetpack Compose, showcasing how these design elements enhance the aesthetics and functionality of the Android application.
+This Android example serves as a comprehensive showcase of the effortless integration of Jetpack Compose, highlighting the platform's capability to facilitate smooth and modern UI development. The app presents a dynamic screen featuring a tip caculator which calculates the tip based on the data provided. By incorporating UI components such as Card, Box, OutlinedTextField, Image, Text, and Slider, it achieves an interactive and visually appealing user experience. The demonstration emphasizes the utilization of Material Design principles within Jetpack Compose, showcasing how these design elements enhance the aesthetics and functionality of the Android application.
 
 # Jetpack Compose
 - Jetpack compose is the new way to build UI for your android applications in a declarative manner. Now no more XML needed and you can build Android apps without construct the XML layout code.
